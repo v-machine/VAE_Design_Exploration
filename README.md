@@ -1,2 +1,2 @@
 # VAE_Design_Exploration
-Platform for Latent Parametric Design Exploration With VAE
+Rhino/Grasshopper and web-based platform for latent parametric design exploration with Variational AutoEncoder
