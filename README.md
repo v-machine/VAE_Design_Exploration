@@ -16,7 +16,7 @@ This is a hackathon project developed during AEC Tech 2022. The team members are
 
 ./ishigami folder contains training data for Design Project 'Carpet'
 
-<img src="pics/latentspace1.gif" width="500"> <img src="pics/geometryoutput1.gif" width="500">
+<img src="pics/latentspace1.gif" width="400"> <img src="pics/geometryoutput1.gif" width="400">
 
 
 
