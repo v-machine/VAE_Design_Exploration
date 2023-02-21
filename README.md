@@ -14,11 +14,11 @@ This is a hackathon project developed during AEC Tech 2022. The team members are
 
 
 
-./ishigami folder contains training data for Design Project 'Carpet'
+./ishigami folder contains training logs for Design Project 'Carpet'
 
 <img src="pics/latentspace1.gif" width="400"> <img src="pics/geometryoutput1.gif" width="400">
 
 
 
-./voronoi folder contains training data for design project 'Dragonfly Facade'
+./voronoi folder contains training logs for design project 'Dragonfly Facade'
 <img src="pics/latentspace2.gif" width="500"> 
